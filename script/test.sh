@@ -1,0 +1,5 @@
+#!/bin/bash
+# Copyright (C) 2026 ZeroDream
+# https://github.com/zero-dream
+
+# --------------------------------------------------
